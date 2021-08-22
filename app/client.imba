@@ -31,4 +31,3 @@ tag app
 					# <li> item.title
 imba.mount <app>
 
-# try git commit troubleshooting

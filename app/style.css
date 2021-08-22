@@ -5,9 +5,9 @@ html,body {
 }
 
 body {
-  display: flex;
+  /* display: flex; */
   font-size: 14px;
-}
+} 
 
 :focus {
   outline: none !important;

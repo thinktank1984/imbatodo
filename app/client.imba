@@ -31,4 +31,4 @@ tag app
 					# <li> item.title
 imba.mount <app>
 
-# why style is not working?
+# try git commit troubleshooting
